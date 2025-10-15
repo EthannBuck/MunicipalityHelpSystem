@@ -1,4 +1,4 @@
-﻿# Municipality Help System
+Municipality Help System
 
 ## Overview
 
